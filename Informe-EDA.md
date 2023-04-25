@@ -2,13 +2,13 @@
 
 ![1672949249809](image/Informe-EDA/1672949249809.png)
 
-A continuación se procederá a explicar en detalle el proceso del Análisis Exploratorio de Datos (EDA)
+A continuación se procederá a explicar en detalle  sel proceso del Análisis Exploratorio de Datos (EDA)
 
 ---
 
 
 
-#### Herramientas utilizadas:
+#### Herramientas utilizadas :
 
 Microsoft Power BI
 
