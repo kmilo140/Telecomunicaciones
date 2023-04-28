@@ -43,7 +43,7 @@ Microsoft Power BI
 
 > *Otros datasets fueron descartados por ser estrictamente geográficos, y el objetivo principal de éste análisis es comparar la República Argentina con la región sudamericana, y eventualmente con el resto del mundo.*
 
-> *También otros datasets ofrecían datos relacionados a otros aspectos de las telecomunicaciones que tampoco sirven para el objetivo principal de éste análisis (ej. telefonía móvil, televisión paga, telefonía fija).*
+> *También otros datasets ofrecían datos relacionados a otros aspectos de las telecomunicaciones que tampoco sirven para el objetivo principal de éste análisis (ejemplo. telefonía móvil, televisión paga, telefonía fija).*
 
 ---
 
